@@ -62,7 +62,7 @@ A curated list of useful coding and programming resources including websites, ar
 ## Cloud 
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/) - Provides free learning paths and modules on various Microsoft technologies, including Azure, Dynamics 365, and Power Platform.
 
-###Exam help
+### Exam help
 - [Cloud Exams Repo](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md) - Mock exams
 - [Exam Questions](https://www.examtopics.com/exams/) - Exam questions on lots of different exams
   
