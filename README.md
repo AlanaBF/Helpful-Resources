@@ -8,6 +8,7 @@ A curated list of useful coding and programming resources including websites, ar
   - [CSS Tools](#css-tools)
   - [Other Development Tools](#other-development-tools)
 - [Online Learning Platforms](#online-learning-platforms)
+- [Cloud Exams, Learning content, Practice](#cloud)
 - [Challenges & Competitions](#challenges--competitions)
 - [Articles & Blogs](#articles--blogs)
   - [Development Practices](#development-practices)
@@ -57,6 +58,8 @@ A curated list of useful coding and programming resources including websites, ar
 - [Udemy](https://www.udemy.com/) - A vast marketplace for learning and teaching online, where millions of students learn from an extensive library of 150,000 courses in over 65 languages.
 - [O'Reilly Media](https://www.oreilly.com/) - Offers a technology and business learning platform that helps tech teams know more and work better together with direct access to over 50,000 books and videos.
 - [LinkedIn Learning](https://www.linkedin.com/learning/) - Features courses taught by industry experts in software, creative, and business skills to help achieve personal and professional goals.
+
+## Cloud 
 
 ## Challenges & Competitions
 - [Codewars](https://www.codewars.com/) - Competitive programming platform.
