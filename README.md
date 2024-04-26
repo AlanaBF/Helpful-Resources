@@ -60,6 +60,7 @@ A curated list of useful coding and programming resources including websites, ar
 
 ## Challenges & Competitions
 - [Codewars](https://www.codewars.com/) - Competitive programming platform.
+- [Cloud Exams Repo](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md) - Mock exams
 
 ## Articles & Blogs
 ### Development Practices
