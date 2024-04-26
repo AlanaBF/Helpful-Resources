@@ -9,6 +9,7 @@ A curated list of useful coding and programming resources including websites, ar
   - [Other Development Tools](#other-development-tools)
 - [Online Learning Platforms](#online-learning-platforms)
 - [Cloud Exams, Learning content, Practice](#cloud)
+  - [Exam Help](#exam-help)
 - [Challenges & Competitions](#challenges--competitions)
 - [Articles & Blogs](#articles--blogs)
   - [Development Practices](#development-practices)
@@ -54,16 +55,20 @@ A curated list of useful coding and programming resources including websites, ar
 - [W3Schools](https://www.w3schools.com) - Comprehensive resource offering tutorials, code examples, and references for web development technologies.
 - [freeCodeCamp](https://youtube.com/freecodecamp) - Code tutorials on a variety of programming topics on YouTube.
 - [Cognitive Class by IBM](https://apps.cognitiveclass.ai/) - Offers free courses primarily in data science, AI, and cloud computing, with practical labs and badges to earn.
-- [Microsoft Learn](https://learn.microsoft.com/en-us/training/) - Provides free learning paths and modules on various Microsoft technologies, including Azure, Dynamics 365, and Power Platform.
 - [Udemy](https://www.udemy.com/) - A vast marketplace for learning and teaching online, where millions of students learn from an extensive library of 150,000 courses in over 65 languages.
 - [O'Reilly Media](https://www.oreilly.com/) - Offers a technology and business learning platform that helps tech teams know more and work better together with direct access to over 50,000 books and videos.
 - [LinkedIn Learning](https://www.linkedin.com/learning/) - Features courses taught by industry experts in software, creative, and business skills to help achieve personal and professional goals.
 
 ## Cloud 
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/) - Provides free learning paths and modules on various Microsoft technologies, including Azure, Dynamics 365, and Power Platform.
 
+###Exam help
+- [Cloud Exams Repo](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md) - Mock exams
+- [Exam Questions](https://www.examtopics.com/exams/) - Exam questions on lots of different exams
+  
 ## Challenges & Competitions
 - [Codewars](https://www.codewars.com/) - Competitive programming platform.
-- [Cloud Exams Repo](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md) - Mock exams
+
 
 ## Articles & Blogs
 ### Development Practices
